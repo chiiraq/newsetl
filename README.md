@@ -1,6 +1,6 @@
 # newsetl
 
-A small ETL pipeline that pulls news articles from NewsAPI.org, cleans them up, and loads them into a database hosted on Aiven.
+A Python ETL pipeline that extracts news articles from NewsAPI.org, cleans them, and loads them into a managed database on Aiven.
 
 I built it as a hands-on project to practice extracting data from a REST API, transforming it in Python, and loading it into a managed database.
 
